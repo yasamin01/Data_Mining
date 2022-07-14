@@ -1,7 +1,7 @@
 # Data_Mining
 
 ## Algorithms :
-    ### 1. Naive Bayes 
+     1. Naive Bayes 
           #### . scratch
           #### . sklearn
     ### 2. K_nearest neighbor
