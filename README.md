@@ -5,5 +5,5 @@
 ### 2. K_nearest neighbor
 ### 3. Logistic Regression
 ### 4. Decision Tree
-### 5. K_meansOne_R
+### 5. K_means
 ### 6. One_R
